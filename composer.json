@@ -1,0 +1,17 @@
+{
+    "name": "luthier/routing",
+    "description": "The Routing component provides an API to build and use HTTP/CLI routes within PHP applications",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anderson Salas",
+            "email": "anderson@ingenia.me"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
